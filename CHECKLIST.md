@@ -4,6 +4,7 @@
 - [x] Criação do arquivo `.gitignore` (incluindo `.venv/`, `.ipynb_checkpoints/`, etc.)
 - [x] Identificação do ambiente virtual `.venv` existente
 - [x] Instalação das dependências necessárias no `.venv` (`numpy`, `matplotlib`, `pandas`, `scikit-learn`, `svzerod`, `pypdf`, `ipykernel`, etc.)
+- [x] Geração dos arquivos de requisitos (`requirements.txt` e `requirements-lock.txt`)
 - [x] Criação deste arquivo de checklist (`CHECKLIST.md`)
 
 ---

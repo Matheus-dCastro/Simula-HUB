@@ -1,0 +1,25 @@
+# ==============================================================================
+# Dependências do Projeto Simula-HUB
+# ==============================================================================
+
+# Computação Científica e Numérica (LBM, CFD, Física de Fluidos)
+numpy>=2.0.0
+scipy>=1.13.0
+numba>=0.60.0
+
+# Análise de Dados e Aprendizado de Máquina (Dia 5)
+pandas>=2.2.0
+scikit-learn>=1.5.0
+
+# Visualização de Dados e Gráficos (Dias 1 a 5)
+matplotlib>=3.8.0
+
+# Simulação Cardiovascular Reduzida 0D (Dia 3)
+svzerod>=3.0
+
+# Ambiente Jupyter e Controles Interativos (Sliders, Animações)
+ipykernel>=6.29.0
+ipywidgets>=8.1.0
+
+# Utilitários e Leitura de Documentos / Slides
+pypdf>=5.0.0
